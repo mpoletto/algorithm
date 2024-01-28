@@ -13,4 +13,6 @@ I don't know if or when "artificial intelligence" will be good to do programs wi
 Pascal's triangle
 
 13 lines of code in PHP (triangle.php)  
-18 lines of code in Python (triangle.py)
+18 lines of code in Python (triangle.py)  
+
+p.s. to break line in Markdown let two or more blank spaces in the end of the line, then press enter ([Markdown guide]([https://www.markdownguide.org/basic-syntax/#line-breaks)).
