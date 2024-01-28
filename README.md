@@ -12,5 +12,5 @@ I don't know if or when "artificial intelligence" will be good to do programs wi
 
 Pascal's triangle
 
-13 lines of code in PHP (triangle.php)
+13 lines of code in PHP (triangle.php)  
 18 lines of code in Python (triangle.py)
