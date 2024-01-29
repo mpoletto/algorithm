@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Author: Marcos Poletto Alves
+ * Date: 2024-01-27
+ */
+
 function triangle($x) {
 
     // Define the first element. I'm supposing the triangle begin with it.

@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+'''
+Author: Marcos Poletto Alves
+Date: 2024-01-28
+'''
+
 def triangle(x):
     a = [[1]]
     for i in range(1, x+1):
