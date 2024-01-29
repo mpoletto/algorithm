@@ -21,7 +21,7 @@ At least, writing computer algorithms is a good mental exercise. Maybe it is an 
 
 Based on the codes above, Cody AI was asked to improve the efficiency of them. See the comments inside the each code to verify its explanation. What happened seems that Cody works very well with 
 Python, but not so good with PHP. Chances are that my PHP code is 
-weird or confusing (it is not the case for me). At the third try it generates new part of the code was wrong and it worked (triangle_code_ai_right.php).
+weird or confusing (it is not the case for me). At the third try it generated new part of the code that was wrong and then it worked (triangle_code_ai_right.php).
 
 * wrong cody in PHP (triangle_code_ai_wrong.php)  
 * wrong code in PHP (triangle_cody_ai_new_wrong.php)  
