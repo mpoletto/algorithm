@@ -12,7 +12,7 @@ For me writing computer algorithms is a good mental exercise. Maybe it is an act
 
 ### Algorithms
 
-#### Pascal's triangle
+**Pascal's triangle**
 
 13 lines of code in PHP (triangle.php)  
 18 lines of code in Python (triangle.py)  
