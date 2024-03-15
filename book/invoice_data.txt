@@ -1,0 +1,3 @@
+Alves	50	160
+Alves	60	150
+Alves	70	180
