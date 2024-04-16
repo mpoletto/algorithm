@@ -9,7 +9,7 @@ def fib(n, counter):
     else:
         return fib(n - 1, counter) + fib(n - 2, counter)
     
-problemSize = 32
+problemSize = 8 
 print("%12s%15s" % ("Problem Size", "Calls"))
 for count in range(5):
     counter = Counter()
