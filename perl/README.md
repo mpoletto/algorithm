@@ -7,7 +7,7 @@ https://staff.washington.edu/jon/dsa-perl/dsa-perl.html
 
 ## What is the difference if the result is the same?  
 
-The bentley1.pl, bentley2.pl and bentley4.pl algorithms have the same functionality, which is to find the maximum subarray sum of a given array. However, the implementation and approach used in each algorithm differ:
+The bentley1.pl, bentley2.pl and bentley4.pl are algorithms that have the same functionality, which is to find the maximum subarray sum of a given array. However, the implementation and approach used in each algorithm differ:
 
 ### bentley1.pl cubic
 
